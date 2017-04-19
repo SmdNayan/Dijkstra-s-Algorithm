@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1482146595 source:c:\users\shoha\desktop\lightoj\dkstra\dikstra.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
+1482219773 source:c:\users\shoha\desktop\lightoj\dijkstraalgorithm\dijkastraalgorithm.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
+1482220206 source:c:\users\user\desktop\dijkstraalgorithm\dijkastraalgorithm.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
